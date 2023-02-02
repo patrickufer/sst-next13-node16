@@ -10,6 +10,6 @@ export function NextJS13Stack({ stack, app }: StackContext) {
   });
 
   stack.addOutputs({
-    NextjsSite: site.url,
+    NextjsSite: site.url ?? "No site URL generated",
   });
 }
