@@ -1,4 +1,4 @@
-# This is a demo Nextra app with Next-Auth.js authentication with Cognito as a provider
+# This is a demo create-next-app, running on Node16, deployed via sst to an AWS CloudFront distribution.
 
 ## Install Dependencies and Deploy
 
